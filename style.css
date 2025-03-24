@@ -211,7 +211,7 @@ section figure img {
 }
 
 .contact input {
-    border-radius: 24px;
+    border-radius: 12px;
 }
 
 .botao6 {
@@ -234,3 +234,19 @@ section figure img {
 .icons img {
     margin: 25px;
 }
+
+textarea {
+    height: 150px;
+    width: 400px;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    resize: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
